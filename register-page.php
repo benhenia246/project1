@@ -30,19 +30,5 @@
         </div>
     </div>
 </nav>
-<div style="margin: 20px;" class="jumbotron">
-    <h1>Login</h1> <br>
-    <form action="login.php" method="post">
-
-        <h4>Username:</h4>  <input type="text" placeholder="Enter Username" name="Username"required><br>
-        <h4>Password:</h4> <input type="password" placeholder="Enter password" name="password" required><br>
-        <a href="lostpsw.php">Forget password?</a>
-        <br>
-        <input class="btn btn-primary" value="Login" type="submit">
-    </form>
-</div>
 </body>
-
-
-
 </html>
